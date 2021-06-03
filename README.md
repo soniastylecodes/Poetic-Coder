@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
+<img align="right" src="https://user-images.githubusercontent.com/57832307/120681565-6b0a3600-c493-11eb-952c-799d4a3a8e0c.PNG" alt="sonia_atsen" width=350px height=465px/>
 
 ### Hi, I'm Sonia Atsen 👋
 
