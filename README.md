@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sonia Atsen 👋
 
-I’m an software developer, writer and public speaker. I'm a frontend developer with Wix (wix.com)the teamlead of [Jos Tech Girls](jostechgirls.com). I am an avid advocate for diversity and intersectionality in technology and accessibility in web development. 
+I’m an software developer, writer and public speaker. I'm a frontend developer with Wix and also the teamlead of [Jos Tech Girls](jostechgirls.com). I am an avid advocate for diversity and intersectionality in technology and accessibility in web development. 
 
 - 📱  I’m currently working on a site to teach kids how to code using poetry..
 - 🤓 I’m currently learning WORDPRESS.
