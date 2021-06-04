@@ -7,6 +7,6 @@ I’m an software developer, writer and public speaker. I'm a frontend developer
 - 📱  I’m currently working on a site to teach kids how to code using poetry..
 - 🤓 I’m currently learning WORDPRESS.
 - 💬  Ask me about WEB DEVELOPMENT, REACT and TENSORFLOW.
-- 📫  How to reach me: soniaatsen.com or Twitter [@Poetic_Coder_](twitter.com/Poetic_Coder_)
+- 📫  How to reach me: Linkiden [@Sonia-atsen](https://www.linkedin.com/in/sonia-atsen/)  or Twitter [@Poetic_Coder_](twitter.com/Poetic_Coder_)
 - 😄  Pronouns: she/her
 - 🚴🏽‍♀️  Fun fact: slightly obsessed with dogs and can usually be found on her laptop, coding or watching slice-of-life anime.
