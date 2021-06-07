@@ -1,8 +1,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/57832307/120681565-6b0a3600-c493-11eb-952c-799d4a3a8e0c.PNG" alt="sonia_atsen" width=350px height=465px/>
 
-### Hi, I'm Sonia Atsen 👋
+### Hi, I'm Sonia Atsen 👋  Popularly known as **SoniaStyle**
 
-I’m an software developer, writer and public speaker. I'm a frontend developer with [Wix](wix.com) and also the teamlead of [Jos Tech Girls](jostechgirls.com). I am an avid advocate for diversity and intersectionality in technology and accessibility in web development. I am also a storyteller, so for me, its not the number of codes i have written, but the way i can prefectly tell my story.
+I’m an software developer, writer (Poet) and public speaker. I'm a frontend developer with [Wix](wix.com) and also the teamlead of [Jos Tech Girls](jostechgirls.com). I am an avid advocate for diversity and intersectionality in technology and accessibility in web development. I am also a storyteller, so for me, its not the number of codes i have written, but the way i can prefectly tell my story.
 
 - 📱  I’m currently working on a site to teach kids how to code using poetry.. Yeah, it gonna be real fun
 - 🤓 I’m currently learning WORDPRESS.
