@@ -11,7 +11,8 @@ I’m an software developer, writer (Poet) and public speaker. I'm the teamlead 
 - 😄  Pronouns: she/her
 - 🚴🏽‍♀️  Fun fact: I am slightly obsessed with dogs and can usually be found with my laptop, coding or watching slice-of-life anime.
 - 😄 Favourite Quote: If you can shave your brows and drw new once, then you must be in TECH 😄😄😄 
-- I love Tesla Cars and i hope that very soon, i afford one 😄�
+- I love Tesla Cars and i hope that very soon, i afford one 😄
+- And i can't wait for my first moon adventure with Elon Musk 🤓
 
 Finally i hope i can inspire you to be the best version of yourself and be of greater value to your society.
 
