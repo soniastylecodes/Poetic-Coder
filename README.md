@@ -16,6 +16,6 @@ I’m an software developer, writer (Poet) and public speaker. I'm the teamlead 
 
 Finally i hope i can inspire you to be the best version of yourself and be of greater value to your society.
 
-My portfolio website while be ready in a bit.
+My portfolio website while be ready in a bit.... Do Watch Out 
 
 
