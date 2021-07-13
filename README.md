@@ -19,9 +19,3 @@ Finally i hope i can inspire you to be the best version of yourself and be of gr
 My portfolio website will be ready in a bit. Do Watch this space.
 
 More codes to my elbow.
-Cheers🙊🙊🙊
-
-Your Favoutite Tech Girl
-
-Poetic_Coder_
-
