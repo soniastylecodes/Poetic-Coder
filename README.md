@@ -20,5 +20,3 @@ My portfolio website will be ready in a bit. Do Watch this space.
 
 I hope to do better and create the tech world i want to see.
 
-
-YAHHHHHHHHHHHH
