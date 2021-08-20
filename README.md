@@ -9,7 +9,7 @@ I’m a software developer, writer (Poet) and public speaker. I'm the teamlead o
 - 💬  Ask me about WEB DEVELOPMENT.
 - My stacks are Node.js, Mongo DB, React.js + Html and CSS..
 - 📫  How to reach me: Linkiden [@Sonia-atsen](https://www.linkedin.com/in/sonia-atsen/) ,Twitter [@Poetic_Coder_](twitter.com/Poetic_Coder_) or via Facebook [@Sonia.atsen](https://web.facebook.com/sonia.atsen)
-- 😄  Pronouns: she/her BUT people always say i am a **TOMBOY** so even if you use any i am good to go 😂😂�
+- 😄  Pronouns: she/her BUT people always say i am a **TOMBOY** so even if you use any i am good to go 😂😂
 - 🚴🏽‍♀️  Fun fact: I am slightly obsessed with dogs and can usually be found with my laptop, coding or watching slice-of-life anime..
 - 😄 Favourite Quote: If you can shave your brows and draw new once, then you must be in TECH 😄😄😄 
 - I love Tesla Cars and i hope that very soon, i afford one 😄
