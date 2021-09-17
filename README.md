@@ -6,7 +6,7 @@ I’m a software developer, writer (Poet) and public speaker. I'm the teamlead o
 
 - 📱 I’m currently working on a site to teach kids how to code using poetry
 - 🤓 I’m currently learning WORDPRESS
-- 💬  Ask me about WEB DEVELOPMENT.
+- 💬  Ask me about WEB DEVELOPMENT especially Frontend development
 - While i current started learning about Stocks, Cryptocurrency and would look into blockcain technology in 2022 or so
 - My stacks are Node.js, Mongo DB, React.js + Html and CSS
 - 📫  How to reach me: Linkiden [@Sonia-atsen](https://www.linkedin.com/in/sonia-atsen/) ,Twitter [@Poetic_Coder_](twitter.com/Poetic_Coder_) or via Facebook [@Sonia.atsen](https://web.facebook.com/sonia.atsen)
