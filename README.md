@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/57832307/120681565-6b0a3600-c493-11eb-952c-799d4a3a8e0c.PNG" alt="sonia_atsen" width=350px height=470px/>
+<img align="right" src="https://user-images.githubusercontent.com/57832307/120681565-6b0a3600-c493-11eb-952c-799d4a3a8e0c.PNG" alt="sonia_atsen" width=350px height=480px/>
 
 ## Hi, I'm Sonia Atsen 👋  Popularly known as **SoniaStyle** 
 
