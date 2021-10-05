@@ -16,7 +16,7 @@ I’m a software developer, writer (Poet) and public speaker. I'm the teamlead o
 - I love Tesla Cars and i hope that very soon, i afford one 😄
 - And i can't wait for my first moon adventure with Elon Musk 🤓
 
-Finally i hope i can inspire you to be the best version of yourself and be of greater value to your society
+Finally i hope i can inspire you to be the best version of yourself and be of greater value to your society.
 I hope to do better and create the tech world i want to see.
 
 My portfolio website will be ready in a bit.
