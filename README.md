@@ -13,7 +13,7 @@ I’m a software developer, writer (Poet) and public speaker. I'm the teamlead o
 - 😄  Pronouns: she/her BUT people always say i am a **TOMBOY** so even if you use any i am good to go 😂😂
 - 🚴🏽‍♀️  Fun fact: I am slightly obsessed with dogs and can usually be found with my laptop, coding or watching slice-of-life anime
 - 😄 Favourite Quote: If you can shave your brows and draw new once, then you must be in TECH 😄😄� 
-- I love Tesla Cars and i hope that very soon, i afford one 😄
+- I love Tesla Cars and i hope that very soon, i afford one 😄.
 - And i can't wait for my first moon adventure with Elon Musk 🤓
 
 Finally i hope i can inspire you to be the best version of yourself and be of greater value to your society.
