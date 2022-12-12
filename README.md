@@ -5,7 +5,7 @@
 I’m a software developer, writer (Poet) and public speaker. I'm the teamlead of [Jos Tech Girls](jostechgirls.com). I am an avid advocate for diversity and intersectionality in technology and accessibility in web development. I am also a storyteller, so for me, its not about the number of codes i have written, but the way i can prefectly tell my stories.
 
 - 📱 I’m currently working on a site to teach kids how to code using poetry.
-- 🤓 I’m currently learning WORDPRESS.
+- 🤓 I’m currently learning BLOCKCHAIN.
 - 💬  Ask me about WEB DEVELOPMENT especially Frontend development.
 - While i current started learning about Stocks, Cryptocurrency and would look into blockcain technology in 2022 or so
 - My stacks are Node.js, Mongo DB, React.js + Html and CSS./
